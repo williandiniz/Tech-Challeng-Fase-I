@@ -26,3 +26,4 @@ Willian Mendonça - rm357832
 Link para o colab do Regressão Linear:
 https://colab.research.google.com/drive/1YZzxTKIZEnuNcEqqQtudLg1reMrV6MdD?usp=sharing
 
+Base de dados: encargos_saude.xlsx
