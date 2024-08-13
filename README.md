@@ -23,4 +23,6 @@ Rander Rodrigues - rm357802
 Willian Diniz - rm357814
 Willian Mendonça - rm357832
 
+Link para o colab do Regressão Linear:
+https://colab.research.google.com/drive/1YZzxTKIZEnuNcEqqQtudLg1reMrV6MdD?usp=sharing
 
