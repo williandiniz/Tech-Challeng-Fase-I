@@ -16,7 +16,7 @@ Entregável Como entregável, o grupo deve enviar um vídeo junto com o link do 
 
 O vídeo deve estar em uma plataforma como Youtube.
 
-Grupo  1 
+Grupo  1 <br/> 
 Celeste Magela: - rm357815<br/> 
 Rafael Ornelas - rm357804<br/> 
 Rander Rodrigues - rm357802<br/> 
