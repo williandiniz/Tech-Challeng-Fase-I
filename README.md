@@ -26,4 +26,7 @@ Willian Mendonça - rm357832
 Link para o colab do Regressão Linear:
 https://colab.research.google.com/drive/1YZzxTKIZEnuNcEqqQtudLg1reMrV6MdD?usp=sharing
 
+Link para colad de Árvore de decisão:
+https://colab.research.google.com/drive/1_R8fQGkE1DNIUhXzc-6_dYsSfZ0K1O39?usp=sharing
+
 Base de dados: encargos_saude.xlsx
