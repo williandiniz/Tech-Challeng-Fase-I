@@ -1,5 +1,5 @@
 # Tech-Challeng-Fase-I
-Emunciado
+Emunciado: 
 Você é um profissional encarregado de desenvolver um modelo preditivo de regressão para prever o valor dos custos médicos individuais cobrados pelo seguro de saúde.
 
 1) Exploração de dados: Carregue a base de dados e explore suas características. Carregue a base de dados e explore suas características. Analise estatísticas descritivas e visualize distribuições relevantes.
