@@ -17,11 +17,11 @@ Entregável Como entregável, o grupo deve enviar um vídeo junto com o link do 
 O vídeo deve estar em uma plataforma como Youtube.
 
 Grupo  1 
-Celeste Magela: - rm357815
-Rafael Ornelas - rm357804
-Rander Rodrigues - rm357802
-Willian Diniz - rm357814
-Willian Mendonça - rm357832
+Celeste Magela: - rm357815<br/> 
+Rafael Ornelas - rm357804<br/> 
+Rander Rodrigues - rm357802<br/> 
+Willian Diniz - rm357814<br/> 
+Willian Mendonça - rm357832<br/> 
 
 Link para o colab do Regressão Linear:
 https://colab.research.google.com/drive/1YZzxTKIZEnuNcEqqQtudLg1reMrV6MdD?usp=sharing
